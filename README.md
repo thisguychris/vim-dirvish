@@ -17,6 +17,11 @@ Features
 - _Powerful:_ `:Shdo[!]` generates shell script
 - _Reliable:_ Less code, fewer bugs (96% smaller than netrw). Supports Vim 7.2+
 
+
+Example Usage
+-------------
+
+
 Concepts
 --------
 
