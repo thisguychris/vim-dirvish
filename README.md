@@ -20,7 +20,7 @@ Features
 
 Example Usage
 -------------
-
+![](./dirvish.gif)
 
 Concepts
 --------
